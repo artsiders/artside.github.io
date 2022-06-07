@@ -1,0 +1,23 @@
+{
+  "name": "olitech",
+  "version": "1.0.0",
+  "description": "(vitrin) oli technology",
+  "main": "index.html",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "php -S localhost:4000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artsiders/olitech.git"
+  },
+  "author": "salim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/artsiders/olitech/issues"
+  },
+  "homepage": "https://github.com/artsiders/olitech#readme"
+}
