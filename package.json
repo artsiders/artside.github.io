@@ -1,7 +1,7 @@
 {
-  "name": "olitech",
+  "name": "alt_plus",
   "version": "1.0.0",
-  "description": "(vitrin) oli technology",
+  "description": "(vitrin) alt plus",
   "main": "index.html",
   "directories": {
     "lib": "lib"
@@ -12,12 +12,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/artsiders/olitech.git"
+    "url": "git+https://github.com/artsiders/alt_plus.git"
   },
   "author": "salim",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/artsiders/olitech/issues"
+    "url": "https://github.com/artsiders/alt_plus/issues"
   },
-  "homepage": "https://github.com/artsiders/olitech#readme"
+  "homepage": "https://github.com/artsiders/alt-plus#readme"
 }
