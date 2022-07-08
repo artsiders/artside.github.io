@@ -4,6 +4,8 @@
 /node_modules
 /lib
 /img/trash
+/css/scss
+/database
 /.pnp
 .pnp.js
 
